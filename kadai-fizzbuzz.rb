@@ -1,7 +1,7 @@
 #メソッドの定義
 def fizzbuzz(num)
  if num%3==0&&num%5==0
-  'Fizz Buzz'
+  'FizzBuzz'
  elsif num%5==0
  'Buzz'
  elsif num%3==0
